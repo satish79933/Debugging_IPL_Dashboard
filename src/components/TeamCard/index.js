@@ -1,4 +1,4 @@
-/* eslint-disable react/jsx-no-undef */
+import Link from 'react-router-dom'
 import './index.css'
 
 const TeamCard = props => {
